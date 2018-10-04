@@ -1,7 +1,26 @@
-.container {
-  background-color: #26abbe;
+body {
+  background-color: #acdcdc;
+  cursor: grab;
 }
-
+.container {
+  font-family: 'Roboto', sans-serif;
+  background-color: #26abbe;
+  padding: 50px;
+  color: #fff;
+}
+.form-group label {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+.form-group input {
+  color: #ce215a;
+}
+.btn {
+  color: #000;
+}
+.results {
+  font-size: 1.2em;
+}
 #hidden {
   display: none;
 }
