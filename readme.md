@@ -1,4 +1,4 @@
-# [Ping-Pong](https://ricolaws.github.io/code-review-1/)
+#Ping-Pong
 
 #### A website that counts and says "ping-pong"
 
@@ -36,7 +36,6 @@ example output: [1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,14,PING-PONG!]
 * Type "git clone" then paste in the URL for the clone and press enter
 * Open the index.html file in your browser
 
-Alternatively, just click the link at the top of this page to be directed to the site on GH-Pages
 
 ## Technologies used
 
